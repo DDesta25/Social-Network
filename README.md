@@ -43,10 +43,7 @@ npm i all dependencies
 
 
 ## Screen Recording
-
-https://drive.google.com/file/d/1Gar3JCzqD5Anl-PjVpLUNYK5J2PPZiiK/view
-
-
+https://drive.google.com/file/d/1uNvZUBqyVqGSsi20gsRv8X50SNXmdz0j/view
 ## Screenshots
 ![alt text](image.png)
 
@@ -56,7 +53,7 @@ https://drive.google.com/file/d/1Gar3JCzqD5Anl-PjVpLUNYK5J2PPZiiK/view
 
 ![alt text](image-3.png)
 
-
+![alt text](image-4.png)
   ## Usage
   
   
